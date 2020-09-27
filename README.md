@@ -3,7 +3,7 @@ Realiza consultas utilizando python no CRM Dynamics 365, utilizando sua API web.
 <br>
 Se quiser tirar alguma dúvida pode me chamar no Linkedin https://www.linkedin.com/in/tadeu-mansi/
 
-## Pré Requisitos
+## Pré-Requisitos
 Instalar as dependências utilizadas no projeto
 ```python
 pip install requests
